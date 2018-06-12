@@ -96,3 +96,4 @@ Commit those two files to your repository and you can toot away.
 As I said, this is based almost entirely on [@harrisj's](https://twitter.com/harrisj) [iron_ebooks](https://github.com/harrisj/iron_ebooks/). He created it in Ruby, and I wanted to port it to Python. All the credit goes to him. As a result, all of the blame for clunky implementation in Python fall on me.
 
 Many thanks to the [many folks who have contributed](CONTRIBUTORS.md) to the development of this project since it was open sourced in 2013. If you see ways to improve the code, please fork it and send a [pull request](https://github.com/tommeagher/heroku_ebooks/pulls), or [file an issue](https://github.com/tommeagher/heroku_ebooks/issues) for me, and I'll address it.
+"# dipdipdip" 
